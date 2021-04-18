@@ -48,7 +48,7 @@ body{margin: 0;padding: 0;background: rgb(245, 238, 238);}
 .navbar-links li{text-align: center;}
 .navbar-links.active{display: flex;}
 .image-content{padding: 5px;}
-.image-container img{width: 160px;height: 160px;}
+.image-container img{width: 130px;height: 130px;}
 .product-inline{flex-direction: column;}
 }
 
